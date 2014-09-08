@@ -1,0 +1,3 @@
+Hello everyone! My name is **Danielle Zoe Aloicius**. I live in Brooklyn but go to Queens College. :station: My first BA was in liberal arts, but I like to do programming so I am getting a second Bachelor's in Computer Science. :school_satchel: I enjoy Java, C++, problem solving, and watching Hulu sci fi shows like Dr. Who when I probably should be studying. :stuck_out_tongue_winking_eye:
+
+![image of Adipose](http://media.tumblr.com/tumblr_me087iQsj71r8pe6h.gif)
